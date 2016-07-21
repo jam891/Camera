@@ -3,9 +3,7 @@
 IOS Camera test
 ---------------
 Object: test camera api knowledge.
-The idea is to create a simple app the uses the camera api to allow the user to create a short video clip using either the front or rear camera and the apply some transformations to the resulting video.
-
-![alt tag](https://github.com/jam891/Camera/blob/master/Camera/Assets.xcassets/screen.imageset/screen.png)
+The idea is to create a simple app the uses the camera api to allow the user to create a short video clip using either the front or rear camera and the apply some transformations to the resulting
 
 The view is composed of the following:
 
